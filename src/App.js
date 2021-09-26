@@ -2,9 +2,8 @@ import { useState } from "react";
 import "./styles.css";
 
 var welcomeMessage = "HEY, Goodmorning ";
-// var username=prompt("Give me your name")
+var username = prompt("Give me your name");
 var color = "blue";
-var username = "kum somi";
 
 //useState variable and setter
 
